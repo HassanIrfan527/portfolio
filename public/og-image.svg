@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0A0A0A"/>
+
+  <circle cx="950" cy="130" r="220" fill="#3B82F6" opacity="0.05"/>
+  <circle cx="250" cy="520" r="160" fill="#3B82F6" opacity="0.04"/>
+
+  <rect x="100" y="100" width="60" height="4" rx="2" fill="#3B82F6"/>
+
+  <text x="100" y="220" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="80" fill="#FAFAFA">Syed Hassan</text>
+  <text x="100" y="310" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="80" fill="#FAFAFA">Irfan</text>
+
+  <text x="100" y="370" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="28" fill="#3B82F6">Full-Stack Web Developer</text>
+
+  <text x="100" y="420" font-family="system-ui, -apple-system, sans-serif" font-weight="400" font-size="22" fill="#71717A">Building scalable SaaS products with clean code and thoughtful design</text>
+
+  <rect x="100" y="490" width="1000" height="1" fill="#2A2A2A"/>
+
+  <text x="100" y="540" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="18" fill="#A1A1AA">React  ·  Laravel  ·  Python  ·  Three.js  ·  Tailwind CSS</text>
+
+  <rect x="100" y="570" width="40" height="3" rx="1.5" fill="#3B82F6" opacity="0.5"/>
+</svg>
