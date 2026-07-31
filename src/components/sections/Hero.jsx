@@ -40,7 +40,9 @@ function AnimatedName({ text }) {
 
 export default function Hero() {
   const mouseRef = useRef({ x: 0, y: 0 });
-  const [sectionRef, isVisible] = useInViewport({ rootMargin: "400px 0px 200px 0px" });
+  const [sectionRef, isVisible] = useInViewport({
+    rootMargin: "400px 0px 200px 0px",
+  });
 
   const handleMouseMove = (e) => {
     mouseRef.current = {
@@ -150,7 +152,7 @@ export default function Hero() {
             Get In Touch
           </motion.button>
           <motion.a
-            href="/Europass-CV.pdf"
+            href="/Resume.pdf"
             download
             data-cursor="pointer"
             whileHover={{ scale: 1.05 }}
