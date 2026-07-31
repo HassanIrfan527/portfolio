@@ -10,7 +10,7 @@ export const socials = [
   {
     name: "LinkedIn",
     handle: "Syed Hassan Irfan Gardezi",
-    url: "https://www.linkedin.com/in/syed-hassan-irfan-gardezi-06440b301/",
+    url: "https://www.linkedin.com/in/hassan-irfan-06440b301",
     icon: "Linkedin",
     description: "Connect with me professionally.",
     featured: true,
